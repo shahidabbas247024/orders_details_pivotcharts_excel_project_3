@@ -56,7 +56,7 @@ PivotChart displaying frequency of payment methods with country filter.
 ### 5. Combined Dashboard
 A holistic interactive dashboard bringing all charts together for final presentation.
 
-![Dashboard](images/Dashboard,jpeg)
+![Dashboard](images/Dashboard.jpeg)
 
 
 ## 📂 Repository Structure
